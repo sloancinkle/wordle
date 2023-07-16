@@ -1,0 +1,14 @@
+name: Shiny_Mastermind
+title: Shiny_Mastermind
+username:
+account: scinkle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6219191
+bundleId: 5871816
+url: https://scinkle.shinyapps.io/Shiny_Mastermind/
+when: 1651721248.30545
+lastSyncTime: 1651721248.30546
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: presentation.pdf|README|wordle_app.R|wordle
