@@ -21,3 +21,7 @@ the project folder, but if you need to manually define where the data is, then
 line 23 of the application file can be replaced with: 
 
 setwd("~/cinkle_final_project")
+
+  The final executables of Wordle and Mastermind games can be found at
+https://scinkle.shinyapps.io/Shiny_Wordle/ and 
+https://scinkle.shinyapps.io/Shiny_Mastermind/, respectively.
