@@ -24,4 +24,4 @@ setwd("~/cinkle_final_project")
 
   The final executables of Wordle and Mastermind games can be found at
 https://scinkle.shinyapps.io/Shiny_Wordle/ and 
-https://scinkle.shinyapps.io/Shiny_Mastermind/, respectively.
+https://scinkle.shinyapps.io/Shiny_Mastermind/.
